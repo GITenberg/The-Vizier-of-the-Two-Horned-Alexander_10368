@@ -1,0 +1,30 @@
+_repo: The-Vizier-of-the-Two-Horned-Alexander_10368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank R. (Frank Richard)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Immortalism -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Vizier of the Two-Horned Alexander
+url: http://www.gutenberg.org/ebooks/10368
